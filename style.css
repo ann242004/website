@@ -1,0 +1,12 @@
+
+*{
+    font-family: "Quicksand", sans-serif;
+    color: white;
+
+}
+
+.carousel-item img{
+    width: 100px;
+    height: 30rem;
+}
+
